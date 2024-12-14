@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ My Skills:
-- **Languages**: JavaScript, Python, C++
+- **Languages**: JavaScript,C
 - **Frameworks**: React.js, Express.js, Node.js
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Docker, VS Code, Postman
@@ -38,9 +38,9 @@ Description: Brief explanation of what the project does.
 ---
 
 ### 📫 Connect With Me:
-- **Email**: [amil.patel@example.com](mailto:amil.patel@example.com)
-- **LinkedIn**: [linkedin.com/in/AmilPatel](https://linkedin.com/in/AmilPatel)
-- **Portfolio**: [www.amilpatel.com](https://www.amilpatel.com)
+- **Email**: [amil.patel@example.com](mailto:patelaamil509@gmail.com)
+- **LinkedIn**: [linkedin.com/in/AmilPatel](https://www.linkedin.com/in/patel-aamil-402b38280/)
+- **Portfolio**: [www.amilpatel.com](https://patelaamil.netlify.app/)
 
 ---
 
